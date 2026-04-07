@@ -1,2 +1,2 @@
 # SomeCodeFolder
-SDC
+SDC320L
